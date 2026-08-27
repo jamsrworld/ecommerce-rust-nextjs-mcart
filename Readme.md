@@ -6,7 +6,6 @@ Built with **Next.js 15** App Router _frontend_ and **Rust**  **Actix-Web** _bac
 
 > This project is currently in development
 
-[Demo](https://jamsrworld.com/products/ecommerce-website-in-rust-rust-ecommerce-source-code/dxvhuwl2x0vg3zps0ppdsf34)
 
 ![Project Image](assets/image-1.png)
 
