@@ -4,7 +4,6 @@ Built with **Next.js 15** App Router _frontend_ and **Rust**  **Actix-Web** _bac
 
 <img src="assets/logo.png" height="40"/> .
 
-> This project is currently in development
 
 
 ![Project Image](assets/image-1.png)
